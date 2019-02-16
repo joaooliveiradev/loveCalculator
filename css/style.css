@@ -1,0 +1,68 @@
+body{
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    display: block;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 45px;
+    font-weight: 500;
+    
+}
+#field{
+width: 400px;
+display: block;
+height: 150px;
+text-align: center;
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom;
+margin: 0 auto;
+padding-top: 55px;
+}
+
+#fieldOne{
+    width: 125px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#love{
+    width: 75px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#fieldTwo{
+    width: 125px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+#fieldResult{
+    display: block;
+    margin-top: 15px;
+    width: 100px;
+    height: 35px;
+    font-size: 25px;
+    text-align: center;
+    margin: 15px auto 0 auto;
+}
+#fieldClean{
+    display: blocko;
+    margin-top: 15px;
+    width: 70px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+
+}
